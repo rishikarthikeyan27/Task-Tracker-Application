@@ -2,3 +2,7 @@ This is the main benefit of statically typed languages.
 Many runtime errors become compile time errors as the 
 compiler ensures that you are writing 'correct' code. 
 This leads to a much smoother development experience.
+
+The Fetch API provides a JavaScript interface 
+for accessing and manipulating parts of the HTTP pipeline, 
+such as requests and responses. 
