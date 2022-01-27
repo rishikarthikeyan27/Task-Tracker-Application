@@ -7,15 +7,9 @@
       "reminder": true
     },
     {
-      "id": 2,
-      "text": "Meeting at School",
-      "day": "Feb 6th at 1:30 pm",
-      "reminder": true
-    },
-    {
-      "text": "Task to test Update",
-      "day": "Now",
-      "reminder": false,
+      "text": "Finish Task Tracker Project",
+      "day": "Jan 27th at 12:30 pm",
+      "reminder": true,
       "id": 3
     }
   ]
